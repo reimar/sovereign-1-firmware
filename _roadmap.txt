@@ -1,0 +1,15 @@
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+# Sovereign V 1.2
+
+- midi channels zuweisen
+- zwei midi-ausgänge
+- jeder programmplatz kann entweder auf output A oder B routen
+- eventuell mehrzeiliges display? (research)
+- arduino MEGA statt UNO verwenden (hat mehrere hardware serial ports)
+- midi-through/midi-merge mit externen Midi Solutions geräten lösen
+
+- eventuell: ein mini-display pro button/speicherplatz?
+- eventuell: speichern und lesen von sd-karte?
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -

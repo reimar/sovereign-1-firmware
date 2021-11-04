@@ -1,0 +1,28 @@
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+#001
+
+wenn der poti auf dem extremwert 127 steht und in den edit-mode geschaltet wird,
+kann eben dieser extremwert nicht mehr erreicht werden - der extremwert ist dann stets 01/01
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+002
+
+sobald auf einen anderen song umgeschaltet wird, sollte auch die patch-anzeige auf einen neutralen
+wert gesetzt werden --fixed
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+003
+
+wenn patch geändert wurde und cursor weiter gesetzt wird, springt der patch wieder auf den alten
+(gespeicherten) wert zurück
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+004
+
+manchmal erscheint bei der texteingabe ein checkmark
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
